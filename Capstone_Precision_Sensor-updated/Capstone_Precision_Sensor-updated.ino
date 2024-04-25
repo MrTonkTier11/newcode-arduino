@@ -1,4 +1,5 @@
 // patnggal nalang ng mga "//" (mostly sa lcd kasi ung iba) para magamit niyo if want niyo  -- Ezekiel
+// makesure if gagamit ng lcd naka download ung LCD_I2C na library ha
 #define SMP A0
 #define RP 2
 //#include <LCD_I2C.h>
